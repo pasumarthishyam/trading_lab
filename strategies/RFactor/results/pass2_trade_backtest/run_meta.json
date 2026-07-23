@@ -1,0 +1,98 @@
+{
+  "universe_size": 211,
+  "n_test_days": 248,
+  "test_start": "2025-06-18",
+  "test_end": "2026-06-19",
+  "dropped_degenerate_days": [
+    "2025-10-21",
+    "2026-06-22"
+  ],
+  "corp_actions_excluded": {
+    "FORCEMOT": [
+      "2024-02-14"
+    ],
+    "NMDC": [
+      "2022-10-27"
+    ],
+    "SIEMENS": [
+      "2025-04-07"
+    ],
+    "VEDL": [
+      "2026-04-30"
+    ]
+  },
+  "run_at": "2026-07-04T15:02:11",
+  "pass": 2,
+  "config": {
+    "entry_timeframe": "5min",
+    "basket_lock_time": "10:00",
+    "basket_size": 4,
+    "entry_window_start": "10:00",
+    "entry_window_end": "12:30",
+    "swing_K": 2,
+    "atr_period": 14,
+    "third_candle_back": 3,
+    "test_period_days": 250,
+    "universe": "fo_manifest",
+    "rvol_lookback": 20,
+    "session_open": "09:15",
+    "session_end": "15:30",
+    "huge_atr_mult": 2.0,
+    "stop_max_pct": 0.01,
+    "stop_rule": "farther",
+    "use_strong_candle_exception": false,
+    "target_R": 3.0,
+    "break_even": null,
+    "force_close": "15:00",
+    "trades_per_day": 1,
+    "resolution_tf": "5min",
+    "filters": [
+      "A",
+      "B"
+    ]
+  },
+  "n_basket_days": 248,
+  "n_enriched_triggers": 3978,
+  "metrics": {
+    "A": {
+      "n_trades": 245,
+      "no_trade_days": 3,
+      "expectancy_R": 0.1457612159804194,
+      "total_R": 35.711497915202756,
+      "win_rate": 0.3469387755102041,
+      "avg_win_R": 2.2293829259899205,
+      "avg_loss_R": -0.9611628174621281,
+      "pct_target": 0.2,
+      "pct_stop": 0.6204081632653061,
+      "pct_time": 0.17959183673469387,
+      "time_close_mean_R": 0.9252613162546081,
+      "max_drawdown_R": 16.82210198557318,
+      "max_dd_duration_trades": 43,
+      "longest_losing_streak": 15,
+      "avg_stop_dist_pct": 0.005310213000581348,
+      "n_long": 143,
+      "n_short": 102,
+      "n_tie_stopfirst": 1
+    },
+    "B": {
+      "n_trades": 248,
+      "no_trade_days": 0,
+      "expectancy_R": 0.1360043772108123,
+      "total_R": 33.72908554828145,
+      "win_rate": 0.3467741935483871,
+      "avg_win_R": 2.1842862463445645,
+      "avg_loss_R": -0.9513551335638956,
+      "pct_target": 0.1935483870967742,
+      "pct_stop": 0.6129032258064516,
+      "pct_time": 0.1935483870967742,
+      "time_close_mean_R": 0.8693559489225303,
+      "max_drawdown_R": 16.82847141232478,
+      "max_dd_duration_trades": 44,
+      "longest_losing_streak": 15,
+      "avg_stop_dist_pct": 0.005363047978566449,
+      "n_long": 141,
+      "n_short": 107,
+      "n_tie_stopfirst": 1
+    }
+  }
+}

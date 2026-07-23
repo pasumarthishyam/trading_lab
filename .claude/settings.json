@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sed 's/.*\\\\.//')",
+      "Bash(./.venv/Scripts/python.exe -c ' *)",
+      "Bash(./.venv/Scripts/python.exe --version)",
+      "Bash(./.venv/Scripts/python.exe -m pip install lightgbm xgboost optuna shap)",
+      "Bash(node scripts/validate_palette.js \"#2a78d6,#eb6834,#1baf7a\" --mode light --pairs all)",
+      "Bash(./.venv/Scripts/python.exe scripts/run_ml_classifier.py --rebuild --limit 25 --skip-tuning --no-intraday)",
+      "Bash(gh auth *)",
+      "Bash(git --version)",
+      "Bash(git -C dashboard remote -v)",
+      "Bash(git -C dashboard status)",
+      "PowerShell(Set-Location \"c:\\\\Users\\\\Hp\\\\Documents\\\\trading_lab\"; Write-Output \"--- gh ---\"; try { gh --version } catch { \"gh not found\" }; Write-Output \"--- git ---\"; git --version; Write-Output \"--- dashboard remote ---\"; git -C dashboard remote -v; Write-Output \"--- dashboard status \\(short\\) ---\"; git -C dashboard status --short | Select-Object -First 10; Write-Output \"--- dashboard log ---\"; git -C dashboard log --oneline -5; Write-Output \"--- .env exists ---\"; Test-Path .env; Write-Output \"--- data dir size ---\"; \"{0:N2} MB\" -f \\(\\(Get-ChildItem -Recurse data | Measure-Object -Property Length -Sum\\).Sum / 1MB\\); Write-Output \"--- existing gitignores ---\"; Get-ChildItem -Filter \".gitignore\" -Recurse -Depth 1 -Force | Select-Object FullName)",
+      "PowerShell(Set-Location \"c:\\\\Users\\\\Hp\\\\Documents\\\\trading_lab\"; Get-ChildItem data | Select-Object Name, @{N='SizeMB';E={if\\($_.PSIsContainer\\){\"{0:N1}\" -f \\(\\(Get-ChildItem $_.FullName -Recurse -File | Measure-Object Length -Sum\\).Sum/1MB\\)}else{\"{0:N2}\" -f \\($_.Length/1MB\\)}}})"
+    ]
+  }
+}

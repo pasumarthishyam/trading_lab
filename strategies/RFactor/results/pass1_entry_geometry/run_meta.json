@@ -1,0 +1,42 @@
+{
+  "universe_size": 211,
+  "n_test_days": 248,
+  "test_start": "2025-06-18",
+  "test_end": "2026-06-19",
+  "dropped_degenerate_days": [
+    "2025-10-21",
+    "2026-06-22"
+  ],
+  "corp_actions_excluded": {
+    "FORCEMOT": [
+      "2024-02-14"
+    ],
+    "NMDC": [
+      "2022-10-27"
+    ],
+    "SIEMENS": [
+      "2025-04-07"
+    ],
+    "VEDL": [
+      "2026-04-30"
+    ]
+  },
+  "run_at": "2026-07-04T14:57:30",
+  "config": {
+    "entry_timeframe": "5min",
+    "basket_lock_time": "10:00",
+    "basket_size": 4,
+    "entry_window_start": "10:00",
+    "entry_window_end": "12:30",
+    "swing_K": 2,
+    "atr_period": 14,
+    "third_candle_back": 3,
+    "test_period_days": 250,
+    "universe": "fo_manifest",
+    "rvol_lookback": 20,
+    "session_open": "09:15",
+    "session_end": "15:30"
+  },
+  "n_triggers": 3978,
+  "n_basket_symbol_days": 992
+}

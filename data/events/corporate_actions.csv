@@ -1,0 +1,4 @@
+symbol,ex_date,action_type,ratio,description,verified,source
+NMDC,2022-10-27,demerger,1:1,"NMDC Steel (NMDC Iron & Steel Ltd) demerged: 1 share per NMDC share; record date 2022-10-28. Raw series shows a discontinuity here.",yes,https://www.business-standard.com/article/markets/nmdc-trades-ex-date-for-demerger-stock-surges-14-amid-heavy-volumes-122102700302_1.html
+SIEMENS,2025-04-07,demerger,1:1,"Siemens Energy India demerged: 1 share per Siemens share; ex/record date 2025-04-07; ~-35% gap in raw series. Same day also had a broad tariff-shock selloff.",yes,https://www.business-standard.com/markets/capital-market-news/siemens-soars-on-ex-date-for-demerger-125040700442_1.html
+VEDL,2026-04-30,demerger,1:1,"Vedanta four-way demerger; ex-date 2026-04-30; record date 2026-05-01; ~-33% gap in raw series.",yes,https://www.paytmmoney.com/blog/vedanta-demerger-explained-record-date-price-discovery-listing-timeline/

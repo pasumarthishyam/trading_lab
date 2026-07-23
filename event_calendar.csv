@@ -1,0 +1,248 @@
+date,event_type,description,impact_level
+2020-01-29,FOMC,Fed Rate Decision - Held rates steady at 1.50-1.75%,High
+2020-01-31,Economic Survey,India Economic Survey 2019-20 presented,High
+2020-01-31,Global Event,Brexit Day - UK officially leaves the European Union,High
+2020-02-01,Budget,India Union Budget 2020-21 presented by FM Nirmala Sitharaman,Critical
+2020-02-06,RBI Policy,RBI MPC Decision - Repo rate held at 5.15%,High
+2020-02-08,India Election,Delhi Assembly Election 2020 voting,Medium
+2020-02-11,India Election,Delhi Assembly Election Results - AAP wins 62/70 seats,Medium
+2020-03-02,FOMC,Emergency FOMC Meeting - Rate cut 50bps to 1.00-1.25%,Critical
+2020-03-11,Global Event,WHO declares COVID-19 a global pandemic,Critical
+2020-03-15,FOMC,Emergency FOMC Meeting - Rate cut 100bps to 0.00-0.25%,Critical
+2020-03-23,Market Crash,Nifty hits COVID low of 7511 - historic market crash,Critical
+2020-03-27,RBI Policy,RBI Off-Cycle MPC - Repo rate cut 75bps to 4.40%,Critical
+2020-04-17,RBI Policy,RBI Off-Cycle - Additional COVID relief measures announced,High
+2020-04-20,Global Event,WTI Crude Oil goes negative (-$37/barrel) - historic first,Critical
+2020-04-29,FOMC,Fed Rate Decision - Rates held near zero,High
+2020-04-30,Reliance Earnings,Reliance Industries Q4 FY20 Results,High
+2020-05-22,RBI Policy,RBI Off-Cycle MPC - Repo rate cut 40bps to 4.00%,Critical
+2020-06-10,FOMC,Fed Rate Decision - Rates held at 0.00-0.25%,High
+2020-06-15,Geopolitical,India-China Galwan Valley clash - 20 Indian soldiers martyred,Critical
+2020-07-29,FOMC,Fed Rate Decision - Rates held near zero,High
+2020-07-30,Reliance Earnings,Reliance Industries Q1 FY21 Results,High
+2020-08-06,RBI Policy,RBI MPC Decision - Repo rate held at 4.00%,High
+2020-08-27,Jackson Hole,Jackson Hole Symposium - Fed announces Avg Inflation Targeting,Critical
+2020-08-31,India GDP,India Q1 FY21 GDP data - Historic -23.9% contraction,Critical
+2020-09-16,FOMC,Fed Rate Decision - Rates held at 0.00-0.25%,High
+2020-09-21,IPO,Happiest Minds IPO lists at 111% premium - IPO frenzy begins,Medium
+2020-10-09,RBI Policy,RBI MPC Decision - Repo rate held at 4.00%,High
+2020-10-28,India Election,Bihar Assembly Election Phase 1 begins,Medium
+2020-10-30,Reliance Earnings,Reliance Industries Q2 FY21 Results,High
+2020-11-03,US Election,US Presidential Election Day - Biden vs Trump,Critical
+2020-11-05,FOMC,Fed Rate Decision - Rates held at 0.00-0.25%,High
+2020-11-07,US Election,US Election Result - Joe Biden wins presidency,Critical
+2020-11-10,India Election,Bihar Assembly Election Results declared - NDA wins,Medium
+2020-11-27,India GDP,India Q2 FY21 GDP data released,High
+2020-12-04,RBI Policy,RBI MPC Decision - Repo rate held at 4.00%,High
+2020-12-16,FOMC,Fed Rate Decision - Rates held at 0.00-0.25%,High
+2021-01-06,US Political,US Capitol riot - Political disruption in Washington DC,High
+2021-01-20,US Political,Joe Biden inaugurated as 46th US President,Medium
+2021-01-22,Reliance Earnings,Reliance Industries Q3 FY21 Results,High
+2021-01-27,FOMC,Fed Rate Decision - Rates held at 0.00-0.25%,High
+2021-01-27,Global Event,GameStop short squeeze peaks - Reddit vs Wall Street,High
+2021-01-29,Economic Survey,India Economic Survey 2020-21 tabled in Parliament,High
+2021-02-01,Budget,India Union Budget 2021-22 presented - Nifty rallied 5%,Critical
+2021-02-05,RBI Policy,RBI MPC Decision - Repo rate held at 4.00%,High
+2021-02-26,India GDP,India Q3 FY21 GDP data released - Economy exits recession,High
+2021-03-17,FOMC,Fed Rate Decision - Rates held at 0.00-0.25%,High
+2021-03-27,India Election,West Bengal Assembly Election Phase 1 begins,Medium
+2021-04-07,RBI Policy,RBI MPC Decision - Repo rate held at 4.00%,High
+2021-04-28,FOMC,Fed Rate Decision - Rates held at 0.00-0.25%,High
+2021-04-30,Reliance Earnings,Reliance Industries Q4 FY21 Results,High
+2021-05-02,India Election,West Bengal Assembly Election Results - TMC wins,Medium
+2021-05-31,India GDP,India Q4 FY21 GDP data released,High
+2021-06-04,RBI Policy,RBI MPC Decision - Repo rate held at 4.00%,High
+2021-06-16,FOMC,Fed Rate Decision - Dot plot signals 2023 rate hikes,Critical
+2021-07-23,Reliance Earnings,Reliance Industries Q1 FY22 Results,High
+2021-07-23,IPO,Zomato IPO lists at 66% premium - New-age tech IPO era begins,High
+2021-07-28,FOMC,Fed Rate Decision - Rates held at 0.00-0.25%,High
+2021-08-06,RBI Policy,RBI MPC Decision - Repo rate held at 4.00%,High
+2021-08-27,Jackson Hole,Jackson Hole Symposium - Powell hints at tapering,Critical
+2021-08-31,India GDP,India Q1 FY22 GDP data released,High
+2021-09-20,Global Event,China Evergrande crisis triggers global selloff,Critical
+2021-09-22,FOMC,Fed Rate Decision - Taper signal strengthened,High
+2021-10-08,RBI Policy,RBI MPC Decision - Repo rate held at 4.00%,High
+2021-10-22,Reliance Earnings,Reliance Industries Q2 FY22 Results,High
+2021-11-03,FOMC,Fed Rate Decision - Fed announces tapering to begin,Critical
+2021-11-18,IPO,Paytm IPO lists at 27% discount - Worst major IPO debut,High
+2021-11-30,India GDP,India Q2 FY22 GDP data released,High
+2021-12-08,RBI Policy,RBI MPC Decision - Repo rate held at 4.00%,High
+2021-12-15,FOMC,Fed Rate Decision - Accelerated taper announced,Critical
+2022-01-22,Reliance Earnings,Reliance Industries Q3 FY22 Results,High
+2022-01-26,FOMC,Fed Rate Decision - Signals March rate hike,Critical
+2022-01-31,Economic Survey,India Economic Survey 2021-22 presented,High
+2022-02-01,Budget,India Union Budget 2022-23 presented,Critical
+2022-02-10,RBI Policy,RBI MPC Decision - Repo rate held at 4.00%,High
+2022-02-10,India Election,UP Assembly Election Phase 1 begins (also Punjab/Uttarakhand/Goa/Manipur),High
+2022-02-24,Geopolitical,Russia invades Ukraine - Global markets crash / Oil spikes,Critical
+2022-02-28,India GDP,India Q3 FY22 GDP data released,High
+2022-03-10,India Election,UP/Punjab/Uttarakhand/Goa/Manipur Election Results - BJP wins UP & 4/5 states,High
+2022-03-16,FOMC,Fed Rate Hike - First hike 25bps to 0.25-0.50%,Critical
+2022-04-08,RBI Policy,RBI MPC Decision - Repo rate held at 4.00%,High
+2022-05-04,FOMC,Fed Rate Hike - 50bps to 0.75-1.00%,Critical
+2022-05-04,RBI Policy,RBI Off-Cycle MPC - Surprise 40bps hike to 4.40%,Critical
+2022-05-06,Reliance Earnings,Reliance Industries Q4 FY22 Results,High
+2022-05-17,IPO,LIC IPO listing - India's largest ever IPO at Rs 21000 Cr,Critical
+2022-05-31,India GDP,India Q4 FY22 GDP data released,High
+2022-06-08,RBI Policy,RBI MPC Decision - Repo rate hiked 50bps to 4.90%,Critical
+2022-06-15,FOMC,Fed Rate Hike - 75bps to 1.50-1.75% (largest since 1994),Critical
+2022-07-22,Reliance Earnings,Reliance Industries Q1 FY23 Results,High
+2022-07-27,FOMC,Fed Rate Hike - 75bps to 2.25-2.50%,Critical
+2022-08-05,RBI Policy,RBI MPC Decision - Repo rate hiked 50bps to 5.40%,High
+2022-08-25,Jackson Hole,Jackson Hole Symposium - Powell warns of pain ahead,Critical
+2022-08-31,India GDP,India Q1 FY23 GDP data released,High
+2022-09-21,FOMC,Fed Rate Hike - 75bps to 3.00-3.25%,Critical
+2022-09-22,BOJ,Bank of Japan intervenes in FX market to support Yen,High
+2022-09-30,RBI Policy,RBI MPC Decision - Repo rate hiked 50bps to 5.90%,High
+2022-10-21,Reliance Earnings,Reliance Industries Q2 FY23 Results,High
+2022-11-02,FOMC,Fed Rate Hike - 75bps to 3.75-4.00%,Critical
+2022-11-08,US Election,US Midterm Elections 2022,High
+2022-11-11,Global Event,FTX crypto exchange collapses - Contagion fears,High
+2022-11-12,India Election,Himachal Pradesh Assembly Election voting,Medium
+2022-11-30,India GDP,India Q2 FY23 GDP data released,High
+2022-12-01,India Election,Gujarat Assembly Election Phase 1 voting,Medium
+2022-12-07,RBI Policy,RBI MPC Decision - Repo rate hiked 35bps to 6.25%,High
+2022-12-08,India Election,Gujarat & Himachal Pradesh Election Results - BJP wins Gujarat / Congress wins HP,Medium
+2022-12-14,FOMC,Fed Rate Hike - 50bps to 4.25-4.50%,Critical
+2023-01-20,Reliance Earnings,Reliance Industries Q3 FY23 Results,High
+2023-01-24,Corporate Event,Hindenburg Research publishes short-seller report on Adani Group,Critical
+2023-01-31,Economic Survey,India Economic Survey 2022-23 tabled in Parliament,High
+2023-02-01,Budget,India Union Budget 2023-24 presented,Critical
+2023-02-01,FOMC,Fed Rate Hike - 25bps to 4.50-4.75%,Critical
+2023-02-08,RBI Policy,RBI MPC Decision - Repo rate hiked 25bps to 6.50%,High
+2023-02-28,India GDP,India Q3 FY23 GDP data released,High
+2023-03-10,Global Event,Silicon Valley Bank (SVB) collapses - Banking crisis fears,Critical
+2023-03-19,Global Event,Credit Suisse acquired by UBS in emergency rescue deal,Critical
+2023-03-22,FOMC,Fed Rate Hike - 25bps to 4.75-5.00% amid banking crisis,Critical
+2023-04-06,RBI Policy,RBI MPC Decision - Repo rate held at 6.50% (surprise pause),Critical
+2023-04-21,Reliance Earnings,Reliance Industries Q4 FY23 Results,High
+2023-05-03,FOMC,Fed Rate Hike - 25bps to 5.00-5.25%,Critical
+2023-05-10,India Election,Karnataka Assembly Election voting,Medium
+2023-05-13,India Election,Karnataka Election Results - Congress wins,Medium
+2023-05-31,India GDP,India Q4 FY23 GDP data released,High
+2023-06-03,US Political,US Debt Ceiling deal signed into law - Default averted,High
+2023-06-08,RBI Policy,RBI MPC Decision - Repo rate held at 6.50%,High
+2023-06-14,FOMC,Fed Rate Decision - Pause (rates held at 5.00-5.25%),High
+2023-07-21,Reliance Earnings,Reliance Industries Q1 FY24 Results,High
+2023-07-26,FOMC,Fed Rate Hike - 25bps to 5.25-5.50% (last hike of cycle),Critical
+2023-08-10,RBI Policy,RBI MPC Decision - Repo rate held at 6.50%,High
+2023-08-24,Jackson Hole,Jackson Hole Symposium - Structural shifts in global economy,High
+2023-08-31,India GDP,India Q1 FY24 GDP data released,High
+2023-09-20,FOMC,Fed Rate Decision - Held at 5.25-5.50%,High
+2023-10-06,RBI Policy,RBI MPC Decision - Repo rate held at 6.50%,High
+2023-10-07,Geopolitical,Israel-Hamas war begins - Middle East tensions escalate,Critical
+2023-10-27,Reliance Earnings,Reliance Industries Q2 FY24 Results,High
+2023-11-01,FOMC,Fed Rate Decision - Held at 5.25-5.50%,High
+2023-11-07,India Election,Mizoram Assembly Election voting,Medium
+2023-11-17,India Election,MP/Rajasthan/Telangana/Chhattisgarh Assembly Election voting begins,Medium
+2023-11-30,India GDP,India Q2 FY24 GDP data released,High
+2023-12-03,India Election,MP/Rajasthan/Chhattisgarh/Telangana Election Results - BJP wins 3/4 states,High
+2023-12-04,India Election,Mizoram Election Results - ZPM wins,Medium
+2023-12-08,RBI Policy,RBI MPC Decision - Repo rate held at 6.50%,High
+2023-12-13,FOMC,Fed Rate Decision - Held at 5.25-5.50% / Dovish dot plot pivot,Critical
+2024-01-18,Reliance Earnings,Reliance Industries Q3 FY24 Results,High
+2024-01-31,FOMC,Fed Rate Decision - Held at 5.25-5.50%,High
+2024-01-31,Economic Survey,India Interim Budget Economic Review 2023-24,High
+2024-02-01,Budget,India Interim Budget 2024-25 (Election year - Vote on Account),Critical
+2024-02-08,RBI Policy,RBI MPC Decision - Repo rate held at 6.50%,High
+2024-02-28,India GDP,India Q3 FY24 GDP data released,High
+2024-03-16,India Election,India General Election 2024 dates announced by ECI,Critical
+2024-03-19,BOJ,Bank of Japan ends negative interest rates - First hike since 2007,Critical
+2024-03-20,FOMC,Fed Rate Decision - Held at 5.25-5.50%,High
+2024-04-05,RBI Policy,RBI MPC Decision - Repo rate held at 6.50%,High
+2024-04-19,India Election,India General Election 2024 - Phase 1 voting,Critical
+2024-04-22,Reliance Earnings,Reliance Industries Q4 FY24 Results,High
+2024-04-26,India Election,India General Election 2024 - Phase 2 voting,Critical
+2024-05-01,FOMC,Fed Rate Decision - Held at 5.25-5.50%,High
+2024-05-07,India Election,India General Election 2024 - Phase 3 voting,Critical
+2024-05-13,India Election,India General Election 2024 - Phase 4 voting,Critical
+2024-05-20,India Election,India General Election 2024 - Phase 5 voting,Critical
+2024-05-25,India Election,India General Election 2024 - Phase 6 voting,Critical
+2024-05-31,India GDP,India Q4 FY24 GDP data released,High
+2024-06-01,India Election,India General Election 2024 - Phase 7 (final) voting,Critical
+2024-06-04,India Election,India General Election 2024 Results - NDA wins / BJP 240 seats,Critical
+2024-06-07,RBI Policy,RBI MPC Decision - Repo rate held at 6.50%,High
+2024-06-12,FOMC,Fed Rate Decision - Held at 5.25-5.50%,High
+2024-07-18,Reliance Earnings,Reliance Industries Q1 FY25 Results,High
+2024-07-22,Economic Survey,India Economic Survey 2023-24 presented,High
+2024-07-23,Budget,India Union Budget 2024-25 (Full Budget post-election),Critical
+2024-07-31,FOMC,Fed Rate Decision - Held at 5.25-5.50% / Signals Sept cut,Critical
+2024-08-05,Market Crash,Global market crash - Nikkei worst since 1987 / Yen carry unwind,Critical
+2024-08-08,RBI Policy,RBI MPC Decision - Repo rate held at 6.50%,High
+2024-08-22,Jackson Hole,Jackson Hole Symposium - Powell signals rate cuts ahead,Critical
+2024-08-30,India GDP,India Q1 FY25 GDP data released,High
+2024-09-18,FOMC,Fed Rate Cut - First cut 50bps to 4.75-5.00%,Critical
+2024-09-24,Global Event,China announces massive stimulus package - Global rally,High
+2024-10-01,SEBI,SEBI new F&O rules effective - Weekly expiry reduced to 1 per exchange,High
+2024-10-05,India Election,Haryana Assembly Election voting,Medium
+2024-10-08,India Election,Haryana Election Results - BJP retains power (surprise win),High
+2024-10-09,RBI Policy,RBI MPC Decision - Repo rate held at 6.50% / Stance changed to neutral,Critical
+2024-10-14,Reliance Earnings,Reliance Industries Q2 FY25 Results,High
+2024-11-05,US Election,US Presidential Election Day - Trump vs Harris,Critical
+2024-11-06,US Election,US Election Result - Donald Trump wins 2nd term,Critical
+2024-11-07,FOMC,Fed Rate Cut - 25bps to 4.50-4.75%,Critical
+2024-11-13,India Election,Jharkhand Assembly Election Phase 1 voting,Medium
+2024-11-20,India Election,Maharashtra & Jharkhand Phase 2 Assembly Election voting,Medium
+2024-11-23,India Election,Maharashtra & Jharkhand Election Results - BJP-led MahaYuti wins MH,High
+2024-11-29,India GDP,India Q2 FY25 GDP data released,High
+2024-12-06,RBI Policy,RBI MPC Decision - Repo rate held at 6.50%,High
+2024-12-18,FOMC,Fed Rate Cut - 25bps to 4.25-4.50% / Hawkish dot plot,Critical
+2025-01-15,Reliance Earnings,Reliance Industries Q3 FY25 Results,High
+2025-01-20,US Political,Donald Trump inaugurated as 47th US President,High
+2025-01-27,Market Crash,DeepSeek AI shock - Global tech stocks crash / Nasdaq plunges,Critical
+2025-01-29,FOMC,Fed Rate Decision - Held at 4.25-4.50%,High
+2025-01-31,Economic Survey,India Economic Survey 2024-25 presented,High
+2025-02-01,Budget,India Union Budget 2025-26 presented by FM Nirmala Sitharaman,Critical
+2025-02-05,India Election,Delhi Assembly Election 2025 voting,Medium
+2025-02-07,RBI Policy,RBI MPC Decision - Repo rate cut 25bps to 6.25% (first cut since May 2020),Critical
+2025-02-08,India Election,Delhi Assembly Election Results 2025 - BJP wins,High
+2025-02-28,India GDP,India Q3 FY25 GDP data released,High
+2025-03-19,FOMC,Fed Rate Decision - Held at 4.25-4.50%,High
+2025-04-02,Geopolitical,US Liberation Day tariffs announced - Global trade war escalation,Critical
+2025-04-07,Market Crash,Global markets crash on tariff escalation fears,Critical
+2025-04-09,RBI Policy,RBI MPC Decision - Repo rate cut 25bps to 6.00%,Critical
+2025-04-09,Geopolitical,Trump announces 90-day tariff pause (except China - hiked to 145%),Critical
+2025-04-25,Reliance Earnings,Reliance Industries Q4 FY25 Results (expected),High
+2025-05-07,FOMC,Fed Rate Decision (scheduled),High
+2025-05-31,India GDP,India Q4 FY25 GDP data (expected),High
+2025-06-06,RBI Policy,RBI MPC Decision (scheduled Jun 4-6),High
+2025-06-18,FOMC,Fed Rate Decision (scheduled),High
+2025-07-18,Reliance Earnings,Reliance Industries Q1 FY26 Results (expected),High
+2025-07-30,FOMC,Fed Rate Decision (scheduled),High
+2025-08-06,RBI Policy,RBI MPC Decision (scheduled Aug 4-6),High
+2025-08-21,Jackson Hole,Jackson Hole Symposium 2025 (scheduled Aug 21-23),High
+2025-08-29,India GDP,India Q1 FY26 GDP data (expected),High
+2025-09-17,FOMC,Fed Rate Decision (scheduled),High
+2025-10-01,RBI Policy,RBI MPC Decision (scheduled Sep 29 - Oct 1),High
+2025-10-17,Reliance Earnings,Reliance Industries Q2 FY26 Results (expected),High
+2025-10-29,FOMC,Fed Rate Decision (scheduled),High
+2025-11-01,India Election,Bihar Assembly Election 2025 (expected Oct-Nov),High
+2025-11-28,India GDP,India Q2 FY26 GDP data (expected),High
+2025-12-05,RBI Policy,RBI MPC Decision (scheduled Dec 3-5),High
+2025-12-10,FOMC,Fed Rate Decision (scheduled),High
+2026-01-16,Reliance Earnings,Reliance Industries Q3 FY26 Results (expected),High
+2026-01-28,FOMC,Fed Rate Decision (scheduled),High
+2026-01-30,Economic Survey,India Economic Survey 2025-26 (expected),High
+2026-02-01,Budget,India Union Budget 2026-27 (expected),Critical
+2026-02-06,RBI Policy,RBI MPC Decision (scheduled Feb 4-6),High
+2026-02-27,India GDP,India Q3 FY26 GDP data (expected),High
+2026-03-18,FOMC,Fed Rate Decision (scheduled),High
+2026-04-08,RBI Policy,RBI MPC Decision (expected Apr 6-8),High
+2026-04-23,Reliance Earnings,Reliance Industries Q4 FY26 Results (estimated),High
+2026-04-29,FOMC,Fed Rate Decision (scheduled),High
+2026-05-29,India GDP,India Q4 FY26 GDP data (expected),High
+2026-06-05,RBI Policy,RBI MPC Decision (expected Jun 3-5),High
+2026-06-17,FOMC,Fed Rate Decision (scheduled),High
+2026-07-17,Reliance Earnings,Reliance Industries Q1 FY27 Results (estimated),High
+2026-07-29,FOMC,Fed Rate Decision (scheduled),High
+2026-08-07,RBI Policy,RBI MPC Decision (expected Aug 5-7),High
+2026-08-20,Jackson Hole,Jackson Hole Symposium 2026 (estimated Aug 20-22),High
+2026-08-28,India GDP,India Q1 FY27 GDP data (expected),High
+2026-09-16,FOMC,Fed Rate Decision (scheduled),High
+2026-10-02,RBI Policy,RBI MPC Decision (expected Sep 30 - Oct 2),High
+2026-10-16,Reliance Earnings,Reliance Industries Q2 FY27 Results (estimated),High
+2026-10-28,FOMC,Fed Rate Decision (scheduled),High
+2026-11-03,US Election,US Midterm Elections 2026 (expected),Critical
+2026-11-27,India GDP,India Q2 FY27 GDP data (expected),High
+2026-12-04,RBI Policy,RBI MPC Decision (expected Dec 2-4),High
+2026-12-09,FOMC,Fed Rate Decision (scheduled),High

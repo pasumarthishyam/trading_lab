@@ -1,0 +1,55 @@
+{
+  "run_at": "2026-07-04T13:33:03",
+  "config": {
+    "checkpoints": [
+      "09:25",
+      "09:45",
+      "10:00",
+      "10:15",
+      "10:30",
+      "10:45",
+      "11:00",
+      "11:15",
+      "11:30"
+    ],
+    "top_n": 10,
+    "top_subset": 5,
+    "rvol_lookback": 20,
+    "move_threshold": 0.02,
+    "move_reference": "09:15_open",
+    "capture_bar": 0.0075,
+    "test_period_days": 250,
+    "universe": "fo_manifest",
+    "exclude_corp_action_window": true,
+    "min_day_candles": 300,
+    "session_close_after": "15:20",
+    "session_open": "09:15",
+    "session_end": "15:30"
+  },
+  "universe_size": 211,
+  "n_test_days": 248,
+  "test_start": "2025-06-18",
+  "test_end": "2026-06-19",
+  "dropped_degenerate_days": [
+    "2025-10-21",
+    "2026-06-22"
+  ],
+  "scan_cutoff": "2025-04-03 00:00:00",
+  "pooled_base_rate": 0.3942493356529719,
+  "n_picks_rows": 22320,
+  "n_universe_daily_rows": 52328,
+  "corp_actions_excluded": {
+    "FORCEMOT": [
+      "2024-02-14"
+    ],
+    "NMDC": [
+      "2022-10-27"
+    ],
+    "SIEMENS": [
+      "2025-04-07"
+    ],
+    "VEDL": [
+      "2026-04-30"
+    ]
+  }
+}

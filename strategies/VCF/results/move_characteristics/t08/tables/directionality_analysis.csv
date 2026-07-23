@@ -1,0 +1,7 @@
+regime,days,avg_range,avg_swing,directionality
+tight,96,154.9,111.9,75.5
+functional,308,161.9,112.5,75.0
+golden,558,210.3,123.5,65.6
+elevated,288,196.4,120.2,68.4
+spreads_only,125,224.4,129.3,63.2
+no_trade,113,294.0,144.4,58.6

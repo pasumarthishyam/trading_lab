@@ -1,0 +1,25 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+*.egg-info/
+dist/
+build/
+data/trading_lab.db
+data/trading_lab.db-wal
+data/trading_lab.db-shm
+data/rs/
+dashboard/node_modules/
+dashboard/.next/
+dashboard/*.tsbuildinfo
+
+# strategy thesis/write-up docs (proprietary logic, keep local only)
+strategies/*/README.md
+strategies/*/VCF_FRAMEWORK.md
+strategies/RFactor/results/move_validation/Pass1_Insights.md

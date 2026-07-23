@@ -1,0 +1,7 @@
+regime,days,ge_100pt_pct,ge_150pt_pct,mean_swing,false_starts
+tight,96,58.3,12.5,111.9,
+functional,308,60.1,13.3,112.5,
+golden,558,70.8,21.3,123.5,
+elevated,288,64.9,21.2,120.2,
+spreads_only,125,78.4,19.2,129.3,
+no_trade,113,83.2,29.2,144.4,

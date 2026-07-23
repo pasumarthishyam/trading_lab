@@ -1,0 +1,78 @@
+{
+  "universe_size": 211,
+  "n_test_days": 248,
+  "test_start": "2025-06-18",
+  "test_end": "2026-06-19",
+  "dropped_degenerate_days": [
+    "2025-10-21",
+    "2026-06-22"
+  ],
+  "corp_actions_excluded": {
+    "FORCEMOT": [
+      "2024-02-14"
+    ],
+    "NMDC": [
+      "2022-10-27"
+    ],
+    "SIEMENS": [
+      "2025-04-07"
+    ],
+    "VEDL": [
+      "2026-04-30"
+    ]
+  },
+  "run_at": "2026-07-04T15:49:40",
+  "pass": 2,
+  "test_name": "pass2.1_filterA_0930",
+  "config": {
+    "entry_timeframe": "5min",
+    "basket_lock_time": "09:30",
+    "basket_size": 4,
+    "entry_window_start": "09:30",
+    "entry_window_end": "12:30",
+    "swing_K": 2,
+    "atr_period": 14,
+    "third_candle_back": 3,
+    "test_period_days": 250,
+    "universe": "fo_manifest",
+    "rvol_lookback": 20,
+    "session_open": "09:15",
+    "session_end": "15:30",
+    "huge_atr_mult": 2.0,
+    "stop_max_pct": 0.01,
+    "stop_rule": "farther",
+    "use_strong_candle_exception": false,
+    "target_R": 3.0,
+    "break_even": null,
+    "force_close": "15:00",
+    "trades_per_day": 1,
+    "resolution_tf": "5min",
+    "filters": [
+      "A"
+    ]
+  },
+  "n_basket_days": 248,
+  "n_enriched_triggers": 4124,
+  "metrics": {
+    "A": {
+      "n_trades": 248,
+      "no_trade_days": 0,
+      "expectancy_R": 0.18675327157991378,
+      "total_R": 46.31481135181862,
+      "win_rate": 0.3629032258064516,
+      "avg_win_R": 2.172293338773625,
+      "avg_loss_R": -0.9442505641633394,
+      "pct_target": 0.2056451612903226,
+      "pct_stop": 0.5887096774193549,
+      "pct_time": 0.2056451612903226,
+      "time_close_mean_R": 0.7708786539572277,
+      "max_drawdown_R": 13.310022989372285,
+      "max_dd_duration_trades": 28,
+      "longest_losing_streak": 7,
+      "avg_stop_dist_pct": 0.005859884353750713,
+      "n_long": 129,
+      "n_short": 119,
+      "n_tie_stopfirst": 0
+    }
+  }
+}

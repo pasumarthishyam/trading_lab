@@ -1,0 +1,4 @@
+reversal_threshold,days,ge_100pt_pct,ge_150pt_pct,median_swing,mean_swing,mean_false_starts
+20pt,1488,29.8,3.0,88.6,92.7,
+30pt,1488,68.2,19.5,115.4,121.9,
+40pt,1488,79.8,37.7,134.1,143.1,

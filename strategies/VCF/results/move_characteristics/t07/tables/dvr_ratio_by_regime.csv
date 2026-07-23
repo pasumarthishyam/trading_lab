@@ -1,0 +1,7 @@
+vix_regime,Days,Mean_Ratio,Median_Ratio,Std_Ratio
+tight,96,1.024,1.009,0.385
+functional,308,0.998,0.918,0.389
+golden,558,1.084,0.989,0.511
+elevated,288,0.967,0.853,0.423
+spreads_only,125,1.117,0.973,0.586
+no_trade,113,1.209,0.998,0.866
